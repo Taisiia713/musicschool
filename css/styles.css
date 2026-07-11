@@ -1,0 +1,27 @@
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
